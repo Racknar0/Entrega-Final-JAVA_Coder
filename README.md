@@ -3,7 +3,6 @@
 ## Proyecto desarrollado bajo las tecnologías:
 <img src="https://github.com/Racknar0/logos/blob/master/coleccion-logos/java.png?raw=true" height="50">
 <img src="https://github.com/Racknar0/logos/blob/master/coleccion-logos/springboot.png?raw=true" height="50">
-<img src="https://github.com/Racknar0/logos/blob/master/coleccion-logos/maven.png?raw=true" height="50">
 
 
 ## Objetivos Generales:
